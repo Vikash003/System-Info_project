@@ -1,2 +1,2 @@
-# System-Info_project
+# System-Info_Project
 windows system information application
