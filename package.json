@@ -14,7 +14,7 @@
     "gpu-info": "0.0.1",
     "os": "^0.1.1",
     "pc": "0.0.6",
-    "systeminformation": "^4.11.6",
+    "systeminformation": "^5.6.4",
     "usage": "^0.7.1"
   }
 }
